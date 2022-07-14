@@ -1,15 +1,7 @@
 <template>
   <div class="container" id="homeView">
     <div class="container-md">
-      <div class="row">
-        <div class="col">
-          <img
-            class="fit-picture"
-            src="../assets/BNB-logo.png"
-            alt="BitBlockLogo"
-          />
-        </div>
-      </div>
+      <div class="row"></div>
       <div class="row">
         <div class="row">
           <h1>BitBlock</h1>
